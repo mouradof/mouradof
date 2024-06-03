@@ -32,7 +32,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer and DevOps E
 *Full Stack Web Developer*
 - Developed Prestashop modules and e-commerce solutions
 - Designed and implemented custom software solutions for HR
-- Created a trading journal and an NFT collection with Solidity
 
 ## 🚀 Projects
 
