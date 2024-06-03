@@ -39,6 +39,10 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer and DevOps E
 - **NFT Collection:** Deployed smart contracts and built decentralized storage solutions with Pinata IPFS.
 - **E-commerce Development:** Built robust and scalable e-commerce platforms using Symfony and MySQL.
 - **DevOps Automation:** Implemented CI/CD pipelines and containerized applications using Docker and Kubernetes.
+- **Trading Dashboard:** An interface for listing and metrics on forex trades
+- **Blockchain:** Development of a blockchain in golang, to experiment in learning how blockchain works and how it's done, and in the Go language.
+- **Social Network:** A social sharing platform for digital art and NFT enthusiasts in microservices
+- **Website for Airdrop:** Site to claim airdrop in web 3.0
 
 ## 🌱 I'm Currently Learning
 
